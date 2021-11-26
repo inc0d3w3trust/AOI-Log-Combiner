@@ -1,5 +1,5 @@
 # Automated Optical Inspection (AOI) log files merge tool
-Simple Java CLI program that merge all presented logs from <a target="_blank" href="http://www.vitechnology.com/products/automated-optical-inspection/">VITech AOI machine</a> to the one CSV file to open it in Excel.
+Simple Java CLI program that merge all presented logs from <a href="http://www.vitechnology.com/products/automated-optical-inspection/" target="_blank">VITech AOI machine</a> to the one CSV file to open it in Excel.
 Requested from the Quality department.
 
 # Requirements

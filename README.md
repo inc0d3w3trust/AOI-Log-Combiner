@@ -3,10 +3,10 @@ Simple Java CLI program that merge all presented logs from <a href="http://www.v
 Requested from the Quality department.
 
 # Requirements
-To run an executable `jar` file the OS have to have Java jdk 1.7 or higher version.
+To run an executable <a href="https://github.com/inc0d3w3trust/AOI-Log-Combiner/tree/main/target">`jar`</a> file the OS have to have Java jdk 1.7 or higher version.
 
 # How to run java application?
-The executable `jar` file must to be copied to the folder with the list of selected files.
+The executable <a href="https://github.com/inc0d3w3trust/AOI-Log-Combiner/tree/main/target">`jar`</a> file must to be copied to the folder with the list of selected files.
 Open the OS terminal and enter to that folder then write the command:
 
 ```console
